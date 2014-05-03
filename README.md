@@ -3,6 +3,8 @@ NecroTube
 
 Restores deleted video titles on YouTube aka "fixing" YouTube
 
+<a href="https://github.com/GoomiChan/NecroTube/raw/master/NecroTube.user.js"> Click Here To Install </a>
+
 Before:
 <img src="http://i.imgur.com/7Sa914u.png"/>
 
