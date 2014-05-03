@@ -12,7 +12,7 @@ After:
 Notes
 ===
 
-Sadly not all titels can be restored, for best results view you playlist after you add a new video to it.
+Sadly not all titles can be restored, for best results view you playlist after you add a new video to it.
 NecroTube will tehn save the titles so if a video gets removed then it can restore it.
 If a title hasn't been stored NecroTube will then try and find the title itself.
 
