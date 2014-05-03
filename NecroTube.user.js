@@ -1,12 +1,16 @@
 // ==UserScript==
 // @name        NecroTube
 // @namespace   YtDelVidNecro
+// @description	Restores deleted video titles on YouTube aka "fixing" YouTube
+// @author		Arkii
 // @include     https://www.youtube.com/playlist*
 // @version     1
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_xmlhttpRequest
-// @grant    	GM_addStyle
+// @icon		https://raw.githubusercontent.com/GoomiChan/NecroTube/master/Necro.png
+// @downloadURL https://github.com/GoomiChan/NecroTube/raw/master/NecroTube.user.js
+// @updateURL 	https://github.com/GoomiChan/NecroTube/raw/master/NecroTube.user.js
 // ==/UserScript==
 
 var DELETED_VIDEO_TITLE = '[Deleted Video]';
